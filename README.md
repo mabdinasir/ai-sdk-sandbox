@@ -7,4 +7,4 @@ Each folder within this repository contains a unique project that leverages diff
 Each project folder contains its own **README** file with specific instructions on how to set up and run that project. Please read the **README** in each folder to understand more about each individual project and its setup.
 
 📜 License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License .
