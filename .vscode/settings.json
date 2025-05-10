@@ -3,5 +3,8 @@
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnType": true,
-    "editor.tabCompletion": "on"
+    "editor.tabCompletion": "on",
+    "editor.suggestSelection": "first",
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 80
 }
