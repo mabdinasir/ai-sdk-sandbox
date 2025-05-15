@@ -2,8 +2,6 @@ from transformers import pipeline
 
 # Load sentiment analysis pipeline
 # This will download the model and tokenizer if not already cached
-from transformers import pipeline
-
 classifier = pipeline("sentiment-analysis")
 
 # Classify the sentiment of a text
